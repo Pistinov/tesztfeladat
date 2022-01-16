@@ -1,0 +1,11 @@
+.uploadbutton{
+
+    padding:10px 30px;
+    font-size:130%;
+}
+
+.list-logo{
+    height:50px;
+    width:50px;
+    object-fit: cover;
+}
